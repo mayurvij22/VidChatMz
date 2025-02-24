@@ -24,7 +24,7 @@ VidChatMz is a real-time video calling application that enables seamless communi
 - JWT Authentication for secure login  
 
 ## Installation & Setup
-![image](https://github.com/user-attachments/assets/f65ea97b-d119-4328-b88c-108a78a75afc)
+![image](https://github.com/user-attachments/assets/f65ea97b-d119-4328-b88c-108a78a75afc) 
 ![image](https://github.com/user-attachments/assets/7d6ff711-c19b-4f4f-95ce-84dcff39bbd9)
 
 
